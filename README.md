@@ -1,7 +1,7 @@
 # RidgeWeb2
 Basically RidgeWeb but for the 2nd domain.
 
-# ridgewayplus.codes 
+# ridgewayplus.xyz
 It's a website. You should go to [the website](http://ridgewayplus.xyz)
 ## Credits
 - [Erisa](https://github.com/Erisa/)
